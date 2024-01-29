@@ -1,0 +1,23 @@
+def question9_1():
+    """
+    answer = string'
+    """
+    answer = 'smc'
+    return answer
+
+def question9_2():
+    answer = 'jaccard'
+    return answer
+
+def question9_3():
+    answer = 'eucledian distance'
+    return answer 
+
+def question9_4():
+    answer = 'cosine similarity'
+    return answer 
+
+def question9_5():
+    answer = 'cosine similarity'
+    return answer 
+
