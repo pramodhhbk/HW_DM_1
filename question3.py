@@ -12,7 +12,7 @@ def question3_3():
     return answer 
 
 def question3_4():
-    answer = ['Continous','Quantitative','Ratio']
+    answer = ['Continuous','Quantitative','Ratio']
     return answer
 
 def question3_5():
@@ -20,11 +20,11 @@ def question3_5():
     return answer
 
 def question3_6():
-    answer = ['Continous','Quantitative','Ratio']
+    answer = ['Continuous','Quantitative','Ratio']
     return answer
 
 def question3_7():
-    answer = ['Continous','Quantitative','Ratio']
+    answer = ['Continuous','Quantitative','Ratio']
     return answer
 
 def question3_8():
