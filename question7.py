@@ -2,7 +2,7 @@ def question7_1():
     """
     answer = 'string'
     """
-    answer = 'increasing/decreasing'
+    answer = 'increase/decrease'
     return answer
 
 def question7_2():
