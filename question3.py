@@ -24,7 +24,7 @@ def question3_6():
     return answer
 
 def question3_7():
-    answer = ['Continuous','Quantitative','Ratio'] 
+    answer = ['Continuous','Quantitative','Interval'] 
     return answer
 
 def question3_8():
