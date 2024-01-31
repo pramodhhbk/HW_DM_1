@@ -1,10 +1,10 @@
 def question4_1():
     # answer = ['string', 'string']
-    answer = ['Nominal','Nominal'] #N,O
+    answer = ['Nominal','Ordinal'] #N,N
     return answer
 
 def question4_2():
-    answer = ['Ratio','Ordinal'] #N,O
+    answer = ['Nominal','Ordinal'] #R,O
     return answer
 
 def question4_3():
