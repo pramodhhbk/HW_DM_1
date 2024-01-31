@@ -2,7 +2,7 @@ def question10_1():
     """
     answer: python bool (True or False)
     """
-    answer = False
+    answer = True
     return answer
 
 def question10_2():
